@@ -1,2 +1,5 @@
-# cogsi-22-23
-cogsi repo for boilerplate use
+# josé silva ISEP boilerplates
+
+Boilerplate use.
+
+MIT Licensed
